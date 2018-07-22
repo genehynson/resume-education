@@ -1,0 +1,20 @@
+{
+    "education": [
+        {
+            "id": 1,
+            "school": "Georgia Tech",
+            "graduated": "12-2017",
+            "degree": "Computer Science",
+            "type": "Masters",
+            "description": "Masters of Science in Computer Science where I specialized in Computing Systems."
+        },
+        {
+            "id": 2,
+            "school": "Georgia Tech",
+            "graduated": "12-2015",
+            "degree": "Computer Science",
+            "type": "Bachlors",
+            "description": "Bachelor of Science in Computer Science where I specialized in Aritificial Intelligence and User Experience."
+        }
+    ]
+}

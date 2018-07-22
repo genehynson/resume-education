@@ -1,0 +1,26 @@
+{
+  "name": "resume-education",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "json-server --watch --p 6001 db.json",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genehynson/resume-education.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genehynson/resume-education/issues"
+  },
+  "homepage": "https://github.com/genehynson/resume-education#readme",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
