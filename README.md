@@ -1,2 +1,2 @@
-# resume-ui
-UI for my resume web app written in ReactJS
+# resume-education
+Education data for my microservice resume example
